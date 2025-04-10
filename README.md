@@ -6,6 +6,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
 ---
 ## 📬 CONTACT
 
+
 <a href=mailto:41iremcinar@gmail.com>  
   <img src="https://img.shields.io/badge/mail.com-004788?logo=maildotcom&logoColor=fff&style=for-the-badge" alt="Email Badge" />
 </a>
@@ -16,12 +17,11 @@ I have a strong interest in mobile app development and web technologies. I’m d
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="android studio" width="45" height="45" style="background-color: #3DDC84; padding: 2px; border-radius: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/PacketTracer_icon.png" alt="cisco packet tracer" width="45" height="45"/>
+
 
 </p>
