@@ -2,23 +2,21 @@
 
 <p align="center">I am <strong>İrem Çınar</strong> — a passionate Information Systems Engineering student at Mehmet Akif Ersoy University.
 Currently in my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
-I have a strong interest in mobile app development, web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
+I have a strong interest in mobile app development and web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 
 ---
 
 ## 📬 İletişim
 
-<a href=mailto:iremkocak4@gmail.com>  
+<a href=mailto:41iremcinar@gmail.com>  
   <img src="https://img.shields.io/badge/mail.com-004788?logo=maildotcom&logoColor=fff&style=for-the-badge" alt="Email Badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/iremccinar" target="_blank">  
+<a href="https://www.linkedin.com/in/iremcnr/" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
 
-<a href="https://github.com/iremccinar" target="_blank">  
-  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
-</a>
+
 
 ---
 
