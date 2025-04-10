@@ -3,9 +3,6 @@
 <p align="center">I am <strong>İrem Çınar</strong> — a passionate Information Systems Engineering student at Mehmet Akif Ersoy University.
 Currently in my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
 I have a strong interest in mobile app development and web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
----
-
-
 
 <h2>  &nbsp;📬 Contact </h2>
 <p align="left">
