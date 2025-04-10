@@ -1,8 +1,8 @@
-<h1 align="center">Merhaba, Profilime Hoşgeldiniz 👋</h1>
+<h1 align="center">Merhaba, Ben İrem Çınar 👋</h1>
 
-<p align="center">Ben <strong>İrem Çınar</strong> — Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi.  
-Mobil uygulama geliştirme, NLP ve Yapay Zeka alanlarında kendimi sürekli geliştiriyorum.  
-Yenilikçi çözümler üretmeye ve öğrendiklerimi gerçek projelere dönüştürmeye odaklıyım.</p>
+<p align="center">I am <strong>İrem Çınar</strong> — I'm İrem Çınar, a passionate Information Systems Engineering student at Mehmet Akif Ersoy University.
+Currently in my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
+I have a strong interest in mobile app development, web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 
 ---
 
