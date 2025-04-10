@@ -4,6 +4,10 @@
 Currently in my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
 I have a strong interest in mobile app development and web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 ---
+<p>
+  <img src="LOGO_URL" title="SQL Server Management Studio" alt="SQL Server Management Studio" width="50" height="50"/>
+</p>
+
 
 <h2>  &nbsp;📬 Contact </h2>
 <p align="left">
