@@ -5,7 +5,7 @@ Currently in my third year, I had the opportunity to expand my academic and cult
 I have a strong interest in mobile app development and web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 ---
 
-<h2>  &nbsp;📬 CONTACT</h2>
+<h2>  &nbsp;📬 Contact </h2>
 <p align="left">
 
 
@@ -24,6 +24,14 @@ I have a strong interest in mobile app development and web technologies. I’m d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="android studio" width="45" height="45" style="background-color: #3DDC84; padding: 2px; border-radius: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="45" height="45"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 
 </p>
