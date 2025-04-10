@@ -1,74 +1,88 @@
-<h1 align="center">👩‍💻 İrem Çınar</h1>
-<p align="center">🎓 Information Systems Engineering Student | 💡 AI & Cybersecurity Enthusiast | 📱 Flutter Developer</p>
+<h1 align="center">Merhaba, Profilime Hoşgeldiniz 👋</h1>
+
+<p align="center">Ben <strong>İrem Çınar</strong> — Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi.  
+Mobil uygulama geliştirme, NLP ve Yapay Zeka alanlarında kendimi sürekli geliştiriyorum.  
+Yenilikçi çözümler üretmeye ve öğrendiklerimi gerçek projelere dönüştürmeye odaklıyım.</p>
 
 ---
 
-### 📬 Contact  
-- 📧 **Email**: 41iremcinar@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/iremccinar](https://www.linkedin.com/in/iremccinar)  
-- 💻 **GitHub**: [github.com/iremccinar](https://github.com/iremccinar)  
+## 📬 İletişim
+
+<a href=mailto:iremkocak4@gmail.com>  
+  <img src="https://img.shields.io/badge/mail.com-004788?logo=maildotcom&logoColor=fff&style=for-the-badge" alt="Email Badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/iremccinar" target="_blank">  
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+
+<a href="https://github.com/iremccinar" target="_blank">  
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
+</a>
 
 ---
 
-### 🌟 About Me
+## ⚙️ Teknik Yetkinlikler
 
-I'm a passionate and curious 3rd-year Information Systems Engineering student at **Mehmet Akif Ersoy University**.  
-During my Erasmus+ exchange at **UITM in Poland**, I gained international experience in **Network Technologies**, **AI**, **Cybersecurity**, **Web Design**, and **2D Game Development**.
+### 💻 Programlama Dilleri
 
-> 🚀 I thrive on learning, coding, and solving real-world problems through technology. Currently seeking internship opportunities to contribute and grow!
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🌐 Web & Markup Dilleri
 
-### 🛠️ Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 
-#### 💻 Programming Languages
-- 🐍 Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-- ☕ Java  
-- 💙 Dart  
-- 🌐 HTML / CSS / JavaScript  
-- 🛢️ SQL
+### 🧩 Framework & Araçlar
 
-#### 🧰 Tools & Technologies
-- 🧩 Flutter  
-- 🔥 Firebase  
-- 🛠️ Git & GitHub  
-- 🖌️ Figma  
-- 🕸️ Web Design  
-- 🧠 NLP  
-- 🕹️ 2D Game Dev
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🧑‍💼 Soft Skills
-- 🤝 Teamwork  
-- 🧠 Creativity  
-- 🧭 Leadership  
+### 🛢️ Veritabanları
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### 📚 Certifications
+### 🖥️ İşletim Sistemleri
 
-- 🏅 **EF SET English Certificate (B2 - Upper Intermediate)**  
-- 📜 **Toplancıt - CEFR B2 English**  
-- 🧠 **Coursera: Work With Components in Figma**  
-- 📱 **Udemy: Flutter Development Bootcamp**  
-- 💻 **BTK Academy Courses**:  
-  - SQL / Database  
-  - Web & Mobile UI Design (Figma)  
-  - Cybersecurity Fundamentals  
-  - Network Basics  
-  - NLP Introduction  
-  - 2D Game Development Basics
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-### 🎓 Education
+## 🧠 İlgi Alanları
 
-- **Mehmet Akif Ersoy University**  
-  🎓 Bachelor's in Information Systems Engineering (2022 – 2026)
+- 🌍 Yapay Zeka (AI) & Doğal Dil İşleme (NLP)  
+- 📱 Mobil Uygulama Geliştirme (Flutter)  
+- 🕵️ Siber Güvenlik  
+- 🎮 2D Oyun Geliştirme  
+- 🌐 Web Teknolojileri
 
-- **UITM, Poland – Erasmus+**  
-  🌍 Studied IT (01.2024 – 19.02.2025)
+---
 
+## 📜 Eğitim
 
+🎓 **Mehmet Akif Ersoy Üniversitesi**  
+📍 Bilişim Sistemleri Mühendisliği (2022 – 2026)
 
-> _"I am very interested in technology and passionate about continuous learning. I love building real-world solutions and growing through challenges."_ 🚀
+🌍 **University of Information Technology and Management (Polonya)**  
+📍 Erasmus+ Programı / IT (2024 – 2025)
 
+---
+
+## 🏅 Sertifikalar
+
+- EF SET English Certificate (B2 – Upper Intermediate)  
+- BTK Akademi - SQL, Siber Güvenlik, Ağ Temelleri, Figma, NLP  
+- Coursera – Figma Components  
+- Udemy – Flutter ile Uygulama Geliştirme  
+- 2D Oyun Geliştirmeye Giriş
+
+---
+
+> “Teknolojiyle öğrenmeye tutkuyla bağlıyım. Yeni şeyler öğrenmeye, üretmeye ve kendimi geliştirmeye her zaman hazırım.” 🚀
