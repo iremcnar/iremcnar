@@ -46,7 +46,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL Management" alt="SQL Management" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/SQL_Server_Management_Studio_logo_2012.svg" title="SQL Server Management" alt="SQL Server Management" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/SQL_Server_Management_Studio_2012_logo.png" title="SQL Server Management" alt="SQL Server Management" width="50" height="50"/>
 </p>
 
 
