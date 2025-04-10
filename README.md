@@ -53,7 +53,8 @@ I have a strong interest in mobile app development and web technologies. I’m d
 <h3> 🚀 &nbsp;Networking</h3>
 <p align="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Cisco_Packet_Tracer_Logo.svg" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cisco_Packet_Tracer_7.3_logo.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
+
 
 
 
