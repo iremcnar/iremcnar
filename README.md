@@ -20,9 +20,6 @@ I have a strong interest in mobile app development and web technologies. I’m d
 </a>
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h2> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 <p align="left">
