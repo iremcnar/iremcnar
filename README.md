@@ -4,9 +4,7 @@
 Currently in my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
 I have a strong interest in mobile app development and web technologies. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 ---
-<p>
-  <img src="LOGO_URL" title="SQL Server Management Studio" alt="SQL Server Management Studio" width="50" height="50"/>
-</p>
+
 
 
 <h2>  &nbsp;📬 Contact </h2>
@@ -22,7 +20,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
 </a>
 ---
 <h2> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
-<p align="left"> SQL EKLICEEEEEEEEEEEEEN
+<p align="left">
 
 <h3> 🚀 &nbsp;Programming Languages</h3>
 <p align="left">
@@ -50,7 +48,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL Management" alt="SQL Management" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/SQL_Server_Management_Studio_logo_20xx.png" title="SQL Server Management Studio 20" alt="SQL Server Management Studio 20" width="50" height="50"/>
+  
 </p>
 
 
@@ -59,7 +57,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
 <h3> 🚀 &nbsp;Networking</h3>
 <p align="left">
 
-<p> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/PacketTracer_icon.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/> </p>
+
 
 <h3> 🚀 &nbsp;Database Management</h3>
 <p align="left">
