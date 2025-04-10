@@ -28,9 +28,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/45699919-e4c0-479a-a32f-f22248da84f5/81_yeni_0x400.png?t=1736248529857" title="SQL" alt="SQL" width="50" height="50"/>
 </p>
-
 
 <h3> 🚀 &nbsp;IDEs & Tools</h3>
 <p align="left">
@@ -43,21 +41,6 @@ I have a strong interest in mobile app development and web technologies. I’m d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3>  &nbsp;Web Development</h3>
 <p align="left">
   
@@ -69,13 +52,10 @@ I have a strong interest in mobile app development and web technologies. I’m d
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/> </p>
 
 
-
-
 <h3> 🚀 &nbsp;Networking</h3>
 <p align="left">
 
 <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
-
 
 
 <h3> 🚀 &nbsp;Database Management</h3>
