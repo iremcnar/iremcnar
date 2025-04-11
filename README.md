@@ -38,6 +38,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
   <img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" title="SQL Server Management Studio" alt="SQL Server Management Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
 </p>
 
 <h3>  &nbsp;Web Development</h3>
