@@ -21,8 +21,7 @@ I have a strong interest in mobile app development and web technologies. I’m d
 <h2> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 <p align="left">
 
-<h3>  &nbsp; ![image](https://github.com/user-attachments/assets/0280fcfc-da0a-4f8a-9482-447c43c7da18)
-Programming Languages</h3>
+<h3>💻 &nbsp;Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
@@ -30,7 +29,7 @@ Programming Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </p>
 
-<h3> 🚀 &nbsp;IDEs & Tools</h3>
+<h3>⚙️ &nbsp;IDEs & Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>
@@ -42,29 +41,29 @@ Programming Languages</h3>
   <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
 </p>
 
-<h3>  &nbsp;Web Development</h3>
+<h3>🌐 &nbsp;Web Development</h3>
 <p align="left">
   
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </p>
 
-<h3>  &nbsp;Mobile Development</h3>
+<h3>📱  &nbsp;Mobile Development</h3>
 <p align="left">
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/> </p>
 
 
-<h3> 🚀 &nbsp;Networking</h3>
+<h3>🕸️ &nbsp;Networking</h3>
 <p align="left">
 
 <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" title="Cisco Packet Tracer" alt="Cisco Packet Tracer" width="50" height="50"/>
 
 
-<h3> 🚀 &nbsp;Database Management</h3>
+<h3>💾 &nbsp;Database Management</h3>
 <p align="left">
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/> </p>
 
-<h3> 🚀 &nbsp;Other Technologies & Areas of Interest</h3>
+<h3>🧠 &nbsp;Other Technologies & Areas of Interest</h3>
 <p align="left">
   
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="AI / NLP with Python" alt="AI/NLP" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/10422/10422314.png" title="Cyber Security" alt="Cyber Security" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity 2D" alt="Unity 2D" width="50" height="50"/> </p>
