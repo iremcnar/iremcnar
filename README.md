@@ -4,7 +4,7 @@
 
 I am currently in my fourth year, and during the fall semester of my third year, I had the opportunity to expand my academic and cultural experiences through the Erasmus+ program at the University of Information Technology and Management in Rzeszow, Poland, where I studied IT.
 
-I have a strong interest in web technologies, mobile app developmentand artificial intelligence. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
+I have a strong interest in web technologies, mobile app development and artificial intelligence. I’m dedicated to continuous learning and enjoy tackling new challenges that push me to grow both personally and professionally. </p>
 
 <h2>  &nbsp;📬 Contact </h2>
 <p align="left">
