@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am İrem Çınar 👋</h1>
 
 <p align="center">
-  <strong>Information Systems Engineering Student | Software Developer | AI & Health-Tech Enthusiast</strong>
+  <strong>Information Systems Engineering Student </strong>
 </p>
 
 <p align="center">
