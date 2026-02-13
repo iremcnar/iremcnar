@@ -1,13 +1,12 @@
 <h1 align="center">Hi! I am İrem Çınar 👋</h1>
 
 <p align="center">
-  <strong>Information Systems Engineering Student </strong>
+  <strong>Information Systems Engineering Student | AI & Health-Tech Developer | Full-Stack Enthusiast</strong>
 </p>
 
 <p align="center">
-  Ben İrem. Burdur Mehmet Akif Ersoy Üniversitesi'nde Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim. 
-  Polonya'daki Erasmus+ deneyimim ve Tekom Savunma'daki stajımla birlikte hem akademik hem de profesyonel vizyonumu geliştirmeye devam ediyorum. 
-  Şu anda derin öğrenme, doğal dil işleme (NLP) ve sağlıkta yapay zeka uygulamalarına odaklanmış durumdayım.
+  I am a senior Information Systems Engineering student at <strong>Burdur Mehmet Akif Ersoy University</strong>. 
+  With a background that spans from <strong>Erasmus+ in Poland</strong> to <strong>Defense Industry Internships</strong>, I am currently specializing in the intersection of <strong>Deep Learning, NLP, and Healthcare</strong>.
 </p>
 
 <p align="center">
@@ -21,72 +20,78 @@
 
 ---
 
-### 🧠 Areas of Expertise & Interest
+### 🧠 Expertise & Research Interests
 
-* **Artificial Intelligence in Healthcare:** Medikal görüntülerden (X-Ray, DermaMNIST) hastalık tespiti ve risk analizi.
-* **Deep Learning & NLP:** Prototypical Networks (Few-Shot Learning), CNN, ve Agentic RAG sistemleri.
-* **Full-Stack Development:** Flutter ile mobil, Node.js ve Modern JS ile web projeleri.
-* **Advanced AI Workflows:** LangGraph ile otonom ajan tasarımları ve akıllı araştırma asistanları.
+* **Generative AI & Agents:** Building autonomous RAG systems using **LangGraph** and **Tavily** for real-time medical research.
+* **Medical Imaging:** Leveraging **CNNs** and **Transfer Learning** (MobileNetV2, ResNet) for pathology detection in X-Rays and Dermatology.
+* **Few-Shot Learning:** Implementing **Prototypical Networks** to achieve high accuracy with minimal clinical data.
+* **Modern Web & Mobile:** Developing scalable applications with **Flutter**, **Node.js**, and **Firebase**.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="200"><strong>Languages</strong></td>
     <td align="center" width="200"><strong>AI & Data Science</strong></td>
-    <td align="center" width="200"><strong>Mobile & Web</strong></td>
-    <td align="center" width="200"><strong>Tools & Cloud</strong></td>
+    <td align="center" width="200"><strong>Web & Mobile</strong></td>
+    <td align="center" width="200"><strong>Tools & Platforms</strong></td>
   </tr>
   <tr>
     <td align="top">
       • Python <br>
-      • Java <br>
       • JavaScript (ES6+) <br>
+      • Java <br>
       • Dart <br>
       • SQL
     </td>
     <td align="top">
       • PyTorch & TensorFlow <br>
-      • LangGraph & LangChain <br>
+      • LangGraph / LangChain <br>
       • Scikit-Learn <br>
-      • MedMNIST / NLP <br>
-      • Computer Vision (CNN)
+      • NLP & Computer Vision <br>
+      • MedMNIST
     </td>
     <td align="top">
       • Flutter <br>
       • Node.js <br>
       • HTML5 & CSS3 <br>
-      • Firebase
+      • Tailwind CSS
     </td>
     <td align="top">
       • Git & GitHub <br>
+      • Docker <br>
       • VS Code <br>
-      • Android Studio <br>
-      • Unity
+      • Android Studio
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured AI Projects
 
-* **TWONE:** Kişisel günlüğü analiz ederek dil öğrenimini destekleyen NLP tabanlı İngilizce öğrenme platformu.
-* **Agentic Health RAG:** LangGraph ve Tavily kullanarak güncel tıbbi makaleleri araştıran otonom sağlık asistanı.
-* **Few-Shot Derma Learning:** Prototypical Networks mimarisi ile kısıtlı veriden deri hastalığı tespiti.
-* **Pneumonia Detection:** CNN modelleri ile akciğer röntgeni üzerinden otomatik zatürre teşhisi.
+* **Agentic Medical RAG:** An autonomous AI agent that researches live medical journals to provide evidence-based answers.
+* **Derma Few-Shot:** A Prototypical Network implementation for skin lesion classification using only 5 samples per class.
+* **TWONE:** An AI-powered English learning platform that uses NLP to analyze personal journals for personalized vocabulary growth.
+* **Pneumonia Detection:** A deep learning pipeline for automated diagnosis from Pediatric Chest X-Ray images.
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Professional Experience
+* **Tekom Defense & Aerospace:** Long-term Intern - Contributing to software development within high-security environments.
+* **Erasmus+ Scholar:** Studied IT at UITM Rzeszow, Poland - Focusing on International IT standards and collaboration.
+
+---
+
+### 📈 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iremcnr&show_icons=true&theme=tokyonight" alt="İrem's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iremcnr&show_icons=true&theme=tokyonight" alt="Irem's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Continuous_Learning-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Actively_Coding-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively_Learning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main_Focus-AI_in_Healthcare-success?style=flat-square" />
 </p>
